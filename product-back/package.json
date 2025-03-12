@@ -1,0 +1,17 @@
+{
+  "name": "product-back",
+  "version": "1.0.0",
+  "description": "Test similar products in back",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Martín",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-fetch": "^3.3.2"
+  }
+}
