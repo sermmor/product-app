@@ -1,7 +1,7 @@
 {
   "name": "product-back",
   "version": "1.0.0",
-  "description": "Test similar products in back",
+  "description": "Add similar products list in back",
   "main": "index.js",
   "scripts": {
     "start": "node index.mjs",
